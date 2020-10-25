@@ -1,0 +1,16 @@
+{
+"companyName": "Capstone",
+"productName": "finalArmSimulationDemo",
+"productVersion": "2.0",
+"dataUrl": "ModularArmSimulation2.data.unityweb",
+"wasmCodeUrl": "ModularArmSimulation2.wasm.code.unityweb",
+"wasmFrameworkUrl": "ModularArmSimulation2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.3f1"
+}
